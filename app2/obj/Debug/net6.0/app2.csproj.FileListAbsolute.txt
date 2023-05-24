@@ -1,0 +1,15 @@
+C:\Users\yshaeldev\Desktop\app2\bin\Debug\net6.0\app2.exe
+C:\Users\yshaeldev\Desktop\app2\bin\Debug\net6.0\app2.deps.json
+C:\Users\yshaeldev\Desktop\app2\bin\Debug\net6.0\app2.runtimeconfig.json
+C:\Users\yshaeldev\Desktop\app2\bin\Debug\net6.0\app2.dll
+C:\Users\yshaeldev\Desktop\app2\bin\Debug\net6.0\app2.pdb
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\app2.csproj.AssemblyReference.cache
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\app2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\app2.AssemblyInfoInputs.cache
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\app2.AssemblyInfo.cs
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\app2.csproj.CoreCompileInputs.cache
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\app2.dll
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\refint\app2.dll
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\app2.pdb
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\app2.genruntimeconfig.cache
+C:\Users\yshaeldev\Desktop\app2\obj\Debug\net6.0\ref\app2.dll
